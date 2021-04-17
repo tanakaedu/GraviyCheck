@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Graviy
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: a69f0f93077cb044fb6bbf213d10c081, type: 3}
+    totalSpriteSurfaceArea: 113483
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: b1a0d350857613f46b1fa6050604546b, type: 3}
+  - {fileID: 21300000, guid: fd568e81420fcf3458ba5c121003c932, type: 3}
+  - {fileID: 21300000, guid: 690bff22c22d82c48bad3699d74face9, type: 3}
+  - {fileID: 21300000, guid: 463fd7721fa320144a5443bdad08a997, type: 3}
+  - {fileID: 21300000, guid: 41b94982871edd245bfa90d89397be8b, type: 3}
+  - {fileID: 21300000, guid: bb308523ba6590d4c86c97ff43d8fa59, type: 3}
+  - {fileID: 21300000, guid: f7749523487c445499b015f96e1024eb, type: 3}
+  - {fileID: 21300000, guid: b3db60d3ef551f644a87b4c152f768a3, type: 3}
+  - {fileID: 21300000, guid: ecd18f446ab8fd643a679b71c32af813, type: 3}
+  - {fileID: 21300000, guid: 17f062d4ce0b0224f9dc62cbca56d14a, type: 3}
+  - {fileID: 21300000, guid: 0c3d8825bc7e820419781078b27a34bc, type: 3}
+  - {fileID: 21300000, guid: c25d3835f2aae7146bb8028d67d5e78d, type: 3}
+  - {fileID: 21300000, guid: 2359ada55ee543548b5455d2df15fe94, type: 3}
+  - {fileID: 21300000, guid: 3871b786c45e88a47a6d267163f28a02, type: 3}
+  - {fileID: 21300000, guid: caa3e317fed51f94bb891daa0d09c790, type: 3}
+  - {fileID: 21300000, guid: 7b62f6978f6942d40af5e3b2ef2fc44b, type: 3}
+  - {fileID: 21300000, guid: bf5ed3c7237c47e4e80dab930e679084, type: 3}
+  - {fileID: 21300000, guid: 6b1a82e7bc31c094980c9b9d3dddce37, type: 3}
+  - {fileID: 21300000, guid: bebac8099d148464f8b3c4fbe376fe5d, type: 3}
+  - {fileID: 21300000, guid: 73dc6e099fd8d3b45ad5f6c73e3a500b, type: 3}
+  - {fileID: 21300000, guid: c732bae901199174cbcb923e4406eae3, type: 3}
+  - {fileID: 21300000, guid: 94246ff965940ed4f90d5fc9766a326f, type: 3}
+  - {fileID: 21300000, guid: 9c36a61a3af191d4ca708caf8428135a, type: 3}
+  - {fileID: 21300000, guid: f8ebb96ad8400ce48ba3f12dbcc164d2, type: 3}
+  - {fileID: 21300000, guid: b6fa8c8a18d5a504491503d14bc48314, type: 3}
+  - {fileID: 21300000, guid: 489f326b2cf6f334885f4611f290a458, type: 3}
+  - {fileID: 21300000, guid: 2f5eeb3cfefdf0c41ba4001935f2e1bb, type: 3}
+  - {fileID: 21300000, guid: 3de6535ce582a234aa3302eb87a3fdb2, type: 3}
+  - {fileID: 21300000, guid: 63db0bff91bbf0446a60b7145a4ba33c, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - graviy_fall_hungry_03
+  - graviy_sucked_00
+  - graviy_inhale_02
+  - graviy_fall_02
+  - graviy_fall_01
+  - graviy_walk_01
+  - graviy_walk_00
+  - graviy_inhale_03
+  - graviy_sucked_hungry_03
+  - graviy_inhale_00
+  - graviy_fall_03
+  - graviy_walk_03
+  - graviy_inhale_04
+  - graviy_sucked_hungry_02
+  - graviy_fall_hungry_00
+  - graviy_sucked_01
+  - graviy_hungry_03
+  - graviy_fall_hungry_02
+  - graviy_sucked_hungry_01
+  - graviy_hungry_01
+  - graviy_sucked_hungry_00
+  - graviy_hungry_02
+  - graviy_walk_02
+  - graviy_fall_hungry_01
+  - graviy_hungry_00
+  - graviy_fall_00
+  - graviy_inhale_01
+  - graviy_sucked_03
+  - graviy_sucked_02
+  m_Tag: Graviy
+  m_IsVariant: 0
